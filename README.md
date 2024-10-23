@@ -6,7 +6,7 @@
 
 This repository is a collection of influential papers and resources related to LLM-based optimization of compound AI systems as explored in the survey paper titled “LLM-based Optimization of Compound AI Systems: A Survey”.
 
-For more information please refer to our survey paper or twitter thread.
+For more information please refer to our [survey paper](https://arxiv.org/abs/2410.16392) or [twitter thread](https://x.com/capybara_ai/status/1848895997600272566).
 
 ## 📚 Papers
 
@@ -123,5 +123,15 @@ For any questions or feedback, feel free to reach out to me at linmatthieu@gmail
 ## 📝 How to Cite the Survey
 
 If you find this repository useful in your research, please consider citing the survey paper:
-
+```
+@misc{lin2024llmbasedoptimizationcompoundai,
+      title={LLM-based Optimization of Compound AI Systems: A Survey}, 
+      author={Matthieu Lin and Jenny Sheng and Andrew Zhao and Shenzhi Wang and Yang Yue and Yiran Wu and Huan Liu and Jun Liu and Gao Huang and Yong-Jin Liu},
+      year={2024},
+      eprint={2410.16392},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2410.16392}, 
+}
+```
 
